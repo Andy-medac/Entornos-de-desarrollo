@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #dd3d3d;
     color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #234019;
     color: white;
     text-align: center;
     padding: 10px;
@@ -20,6 +20,6 @@ section {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #222;
+    background-color: #f5f5f5;
     color: white;
 }
